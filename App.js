@@ -101,7 +101,7 @@ App = () => {
         </NavigationContainer>
       </AppearanceProvider>
   );
-  
+  // J'aime les pates
 }
 
 export default App
